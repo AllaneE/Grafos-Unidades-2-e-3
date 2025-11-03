@@ -10,9 +10,8 @@ Este repositório contém os trabalhos práticos das Unidades 2 e 3 sobre grafos
 - Vitor Rodrigues
 
 ## Estrutura do repositório
-- `data/`: contém os arquivos de entrada e datasets utilizados nos notebooks (ex.: grafos de exemplo, matrizes de adjacência).
-- `Unidade2.ipynb`: notebook que apresenta as implementações e exercícios da Unidade 2, focando em algoritmos de busca em grafos (como BFS e DFS) e propriedades de conectividade.
-- `Unidade3.ipynb`: notebook que apresenta as implementações e exercícios da Unidade 3, abordando caminhos mínimos (algoritmo de Dijkstra), fluxos em redes e aplicações em problemas reais.
+- `Unidade2\GrafosUnidade2.ipynb`: notebook que apresenta as implementações e exercícios da Unidade 2, focando em algoritmos de busca em grafos (como BFS e DFS) e propriedades de conectividade.
+- `Unidade3\GrafosUnidade3.ipynb`: notebook que apresenta as implementações e exercícios da Unidade 3, abordando caminhos mínimos (algoritmo de Dijkstra), fluxos em redes e aplicações em problemas reais.
 - `README.md`: este arquivo, com informações sobre o repositório.
 
 ## Como executar
