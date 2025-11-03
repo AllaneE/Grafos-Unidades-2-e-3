@@ -1,6 +1,6 @@
 # DIM0549 Grafos (UFRN) — Unidades 2 e 3
 
-Este repositório contém os trabalhos práticos das Unidades 2 e 3 sobre grafos, desenvolvidos em Jupyter Notebook. Os conteúdos abordam tópicos avançados de teoria dos grafos, incluindo algoritmos de busca, caminhos mínimos, fluxos e aplicações práticas.
+Este repositório contém os trabalhos práticos das Unidades 2 e 3 sobre **grafos**, desenvolvidos em **Jupyter Notebook**. Os conteúdos abordam tópicos avançados de teoria dos grafos, incluindo **árvores geradoras mínimas**, **caminhos mínimos**, **grafos eulerianos** e suas **aplicações práticas**.
 
 ## Integrantes
 - Allane Oliveira
@@ -10,8 +10,8 @@ Este repositório contém os trabalhos práticos das Unidades 2 e 3 sobre grafos
 - Vitor Rodrigues
 
 ## Estrutura do repositório
-- `Unidade2\GrafosUnidade2.ipynb`: notebook que apresenta as implementações e exercícios da Unidade 2, focando em algoritmos de busca em grafos (como BFS e DFS) e propriedades de conectividade.
-- `Unidade3\GrafosUnidade3.ipynb`: notebook que apresenta as implementações e exercícios da Unidade 3, abordando caminhos mínimos (algoritmo de Dijkstra), fluxos em redes e aplicações em problemas reais.
+- `Unidade2/GrafosUnidade2.ipynb:` notebook que apresenta as implementações e exercícios da Unidade 2, focando em **árvores geradoras mínimas (Kruskal, Prim, Borůvka, Chu-Liu/Edmonds)**, **caminhos mínimos (Dijkstra, Bellman-Ford, Floyd-Warshall)** e **grafos eulerianos (Hierholzer)**.  
+- `Unidade3/GrafosUnidade3.ipynb:` notebook ainda será desenvolvido.
 - `README.md`: este arquivo, com informações sobre o repositório.
 
 ## Como executar
