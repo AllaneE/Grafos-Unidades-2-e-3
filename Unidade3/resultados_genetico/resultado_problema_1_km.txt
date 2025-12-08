@@ -9,8 +9,8 @@ ESTATÍSTICAS GERAIS
 Melhor caminho encontrado: [1, 10, 12, 9, 8, 23, 4, 3, 2, 11, 5, 46, 14, 43, 29, 24, 13, 47, 37, 38, 20, 33, 39, 35, 42, 26, 32, 16, 34, 19, 7, 17, 31, 25, 36, 40, 48, 22, 21, 30, 6, 27, 28, 15, 18, 45, 44, 41, 1]
 Melhor custo encontrado: 2018.90
 Custo médio: 2044.64
-Tempo médio: 1.30s
-Tempo total: 26.01s
+Tempo médio: 1.29s
+Tempo total: 25.82s
 
 ============================================================
 TODAS SOLUÇÕES ENCONTRADAS
