@@ -1,4 +1,4 @@
-RESULTADOS - PROBLEMA 7
+RESULTADOS - problema_7_km
 CONFIGURAÇÃO:
   Número de execuções: 20
   Gerações por execução: 100
@@ -6,29 +6,29 @@ CONFIGURAÇÃO:
 ============================================================
 ESTATÍSTICAS GERAIS
 ============================================================
-Melhor caminho encontrado: [1, 8, 9, 10, 12, 7, 5, 11, 2, 3, 4, 6, 1]
-Melhor custo encontrado: 672.70
-Custo médio: 697.31
-Tempo médio: 0.32s
-Tempo total: 6.45s
+Melhor caminho encontrado: [1, 10, 8, 9, 12, 7, 5, 11, 2, 3, 4, 6, 1]
+Melhor custo encontrado: 673.90
+Custo médio: 697.94
+Tempo médio: 0.42s
+Tempo total: 8.42s
 
 ============================================================
 TODAS SOLUÇÕES ENCONTRADAS
 ============================================================
 
 Top 1 --------
-Custo: 672.70
-Rota: [1, 8, 9, 10, 12, 7, 5, 11, 2, 3, 4, 6, 1]
+Custo: 673.90
+Rota: [1, 10, 8, 9, 12, 7, 5, 11, 2, 3, 4, 6, 1]
 ---------------------------
 
 Top 2 --------
-Custo: 688.50
-Rota: [1, 11, 10, 8, 9, 12, 7, 5, 2, 3, 4, 6, 1]
+Custo: 699.20
+Rota: [1, 8, 9, 11, 10, 12, 7, 5, 2, 3, 4, 6, 1]
 ---------------------------
 
 Top 3 --------
-Custo: 698.60
-Rota: [1, 6, 4, 3, 2, 8, 9, 12, 7, 5, 11, 10, 1]
+Custo: 699.20
+Rota: [1, 8, 9, 11, 10, 12, 7, 5, 2, 3, 4, 6, 1]
 ---------------------------
 
 Top 4 --------

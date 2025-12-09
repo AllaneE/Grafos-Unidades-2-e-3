@@ -1,4 +1,4 @@
-RESULTADOS - PROBLEMA 5
+RESULTADOS - problema_5_km
 CONFIGURAÇÃO:
   Número de execuções: 20
   Gerações por execução: 100
@@ -9,8 +9,8 @@ ESTATÍSTICAS GERAIS
 Melhor caminho encontrado: [1, 23, 2, 11, 10, 12, 9, 8, 21, 22, 17, 7, 19, 16, 20, 13, 24, 5, 14, 18, 15, 6, 4, 3, 1]
 Melhor custo encontrado: 1328.60
 Custo médio: 1328.60
-Tempo médio: 0.63s
-Tempo total: 12.63s
+Tempo médio: 0.80s
+Tempo total: 16.08s
 
 ============================================================
 TODAS SOLUÇÕES ENCONTRADAS

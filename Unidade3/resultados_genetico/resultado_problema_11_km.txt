@@ -1,4 +1,4 @@
-RESULTADOS - PROBLEMA 11
+RESULTADOS - problema_11_km
 CONFIGURAÇÃO:
   Número de execuções: 20
   Gerações por execução: 100
@@ -9,8 +9,8 @@ ESTATÍSTICAS GERAIS
 Melhor caminho encontrado: [1, 3, 6, 4, 5, 2, 1]
 Melhor custo encontrado: 344.90
 Custo médio: 344.90
-Tempo médio: 0.18s
-Tempo total: 3.52s
+Tempo médio: 0.22s
+Tempo total: 4.36s
 
 ============================================================
 TODAS SOLUÇÕES ENCONTRADAS
@@ -28,7 +28,7 @@ Rota: [1, 3, 6, 4, 5, 2, 1]
 
 Top 3 --------
 Custo: 344.90
-Rota: [1, 3, 6, 4, 5, 2, 1]
+Rota: [1, 2, 5, 4, 6, 3, 1]
 ---------------------------
 
 Top 4 --------
@@ -38,7 +38,7 @@ Rota: [1, 3, 6, 4, 5, 2, 1]
 
 Top 5 --------
 Custo: 344.90
-Rota: [1, 3, 6, 4, 5, 2, 1]
+Rota: [1, 2, 5, 4, 6, 3, 1]
 ---------------------------
 
 Top 6 --------
@@ -88,7 +88,7 @@ Rota: [1, 3, 6, 4, 5, 2, 1]
 
 Top 15 --------
 Custo: 344.90
-Rota: [1, 3, 6, 4, 5, 2, 1]
+Rota: [1, 2, 5, 4, 6, 3, 1]
 ---------------------------
 
 Top 16 --------
@@ -108,7 +108,7 @@ Rota: [1, 3, 6, 4, 5, 2, 1]
 
 Top 19 --------
 Custo: 344.90
-Rota: [1, 3, 6, 4, 5, 2, 1]
+Rota: [1, 2, 5, 4, 6, 3, 1]
 ---------------------------
 
 Top 20 --------
